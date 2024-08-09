@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Trip Planner</string>
+    <string name="menu_btn">Menu</string>
+    <string name="back_btn">Back</string>
+    <string name="add_title">Add Trip</string>
+    <string name="edit_title">Edit Trip</string>
+    <string name="add_success">Trip added successfully</string>
+    <string name="edit_success">Trip updated successfully</string>
+    <string name="not_found">Unable to get location</string>
+    <string name="view_details">Click to view more</string>
+    <string name="add_text">Click + to add a Trip</string>
+    <string name="card_actions">Swipe right→ to edit or left← to delete</string>
+    <string name="turn_on">Please turn on Location and try again later</string>
+    <string name="load_map">Loading map...</string>
+
+    <string name="upload_photo">Upload</string>
+    <string name="title_text">Title</string>
+    <string name="description_text">Description</string>
+    <string name="date_text">Date</string>
+    <string name="location_text">Location</string>
+    <string name="select_date">Select Date</string>
+    <string name="select_location">Select Location</string>
+    <string name="current_location">Use Current Location</string>
+    <string name="fields_required">All fields are required</string>
+    <string name="view_btn">View on Map</string>
+
+    <string name="select_action">Select Action</string>
+    <string name="select_gallery">Choose photo from gallery</string>
+    <string name="select_camera">Take photo using camera</string>
+    <string name="permissions_title">Permissions Required</string>
+    <string name="permissions_text">Please go to app settings and enable the required permissions.</string>
+    <string name="open_settings">Go to Settings</string>
+    <string name="cancel_btn">Cancel</string>
+
+    <string name="maps_api">AIzaSyDRDMwURqa0xAVmo-VeLCQL3LgzUUpkaVE</string>
+</resources>

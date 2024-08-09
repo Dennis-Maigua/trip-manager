@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.TripPlanner" parent="android:Theme.Material.Light.NoActionBar" />
+
+    <style name="CustomDatePickerDialog" parent="android:Theme.Material.Light.Dialog.Alert">
+        <!-- Customize the date picker background -->
+        <item name="android:colorAccent">@color/red_500</item>
+    </style>
+
+    <style name="CustomDatePicker" parent="android:Widget.Material.DatePicker">
+        <!-- Customize the primary color of the date picker -->
+        <item name="android:colorAccent">@color/red_500</item>
+    </style>
+</resources>
