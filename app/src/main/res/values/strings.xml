@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Trip Planner</string>
+    <string name="app_name">Trip Manager</string>
     <string name="menu_btn">Menu</string>
     <string name="back_btn">Back</string>
     <string name="add_title">Add Trip</string>
